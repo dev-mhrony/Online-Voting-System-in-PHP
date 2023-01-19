@@ -7,11 +7,11 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
 
 # Login Page
+![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-2023-01-19-10_37_38](https://user-images.githubusercontent.com/78216965/213357596-c6ab7d1e-95ec-4213-af79-2f500ca56d80.png)
+
 ![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_41_31](https://user-images.githubusercontent.com/78216965/213357503-5365f139-a5d8-4adb-9229-c285ad97da71.png)
 
 ![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_38_09](https://user-images.githubusercontent.com/78216965/213357592-2f8828b3-9d75-4511-a86d-e5842ac12c2c.png)
-
-![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-2023-01-19-10_37_38](https://user-images.githubusercontent.com/78216965/213357596-c6ab7d1e-95ec-4213-af79-2f500ca56d80.png)
 
 ![screencapture-localhost-online-voting-system-routes-dashboard-php-2023-01-19-09_51_23](https://user-images.githubusercontent.com/78216965/213357598-ce35f2b9-e592-4a52-8803-8656c8e0fd4e.png)
 
