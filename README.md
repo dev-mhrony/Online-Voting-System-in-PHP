@@ -17,6 +17,5 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
 ![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_43_14](https://user-images.githubusercontent.com/78216965/213357603-730cc673-fccb-4555-80a0-1856d3fc3899.png)
 
-![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_41_46](https://user-images.githubusercontent.com/78216965/213357611-10dd986f-134f-4847-ad1d-0cf32a0fecc6.png)
 
 
