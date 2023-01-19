@@ -7,10 +7,20 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
 
 # Login Page
-![screencapture-localhost-online-voting-system-2023-01-19-09_06_29](https://user-images.githubusercontent.com/78216965/213350822-87661293-858d-45d7-88ee-5186e6e36f1d.png)
+![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_41_31](https://user-images.githubusercontent.com/78216965/213357503-5365f139-a5d8-4adb-9229-c285ad97da71.png)
 
+![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_38_09](https://user-images.githubusercontent.com/78216965/213357592-2f8828b3-9d75-4511-a86d-e5842ac12c2c.png)
 
-# User Deshbord
+![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-2023-01-19-10_37_38](https://user-images.githubusercontent.com/78216965/213357596-c6ab7d1e-95ec-4213-af79-2f500ca56d80.png)
 
-![screencapture-localhost-online-voting-system-routes-dashboard-php-2023-01-19-09_51_23](https://user-images.githubusercontent.com/78216965/213351224-f3a3da03-7ccd-4dbf-bb86-86aceccaf609.png)
+![screencapture-localhost-online-voting-system-routes-dashboard-php-2023-01-19-09_51_23](https://user-images.githubusercontent.com/78216965/213357598-ce35f2b9-e592-4a52-8803-8656c8e0fd4e.png)
+
+![screencapture-localhost-online-voting-system-2023-01-19-09_06_29](https://user-images.githubusercontent.com/78216965/213357600-7c319f78-5d90-4fe0-aecc-a643afed6900.png)
+
+![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_43_14](https://user-images.githubusercontent.com/78216965/213357603-730cc673-fccb-4555-80a0-1856d3fc3899.png)
+
+![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_42_59](https://user-images.githubusercontent.com/78216965/213357608-e55ed032-c65c-49cb-993c-bf55a4899258.png)
+
+![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_41_46](https://user-images.githubusercontent.com/78216965/213357611-10dd986f-134f-4847-ad1d-0cf32a0fecc6.png)
+
 
