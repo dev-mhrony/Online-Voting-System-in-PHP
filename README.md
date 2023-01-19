@@ -13,10 +13,6 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
 ![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_38_09](https://user-images.githubusercontent.com/78216965/213357592-2f8828b3-9d75-4511-a86d-e5842ac12c2c.png)
 
-![screencapture-localhost-online-voting-system-routes-dashboard-php-2023-01-19-09_51_23](https://user-images.githubusercontent.com/78216965/213357598-ce35f2b9-e592-4a52-8803-8656c8e0fd4e.png)
-
-![screencapture-localhost-online-voting-system-2023-01-19-09_06_29](https://user-images.githubusercontent.com/78216965/213357600-7c319f78-5d90-4fe0-aecc-a643afed6900.png)
-
 ![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_43_14](https://user-images.githubusercontent.com/78216965/213357603-730cc673-fccb-4555-80a0-1856d3fc3899.png)
 
 ![screencapture-localhost-Online-Voting-System-in-PHP-main-Online-Voting-System-in-PHP-main-routes-dashboard-php-2023-01-19-10_42_59](https://user-images.githubusercontent.com/78216965/213357608-e55ed032-c65c-49cb-993c-bf55a4899258.png)
